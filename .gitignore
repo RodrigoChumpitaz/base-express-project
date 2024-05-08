@@ -31,3 +31,6 @@ Thumbs.db
 
 # package files
 package-lock.json
+
+#linter
+.eslintrc.json
